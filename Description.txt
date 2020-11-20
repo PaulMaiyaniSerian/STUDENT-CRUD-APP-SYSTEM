@@ -1,0 +1,19 @@
+STUDENT RECORD SYSTEM
+stuudents table_
+	name, description, joindate -when student was created, unique reg number, class name
+
+pages:
+1.Home page
+	-form that creates a student
+	-list all students
+	-x delete icon for deleting particular student
+	-update button to update the student
+
+....urls
+1> home...lists students
+2> home/view/pk ....view individual student
+3>home/update/pk ... form to update a selected student
+4>home/delete/pk .... delete the selected student
+
+then from apa tunaeza ongeza vitu kathaa
+ 
